@@ -1,0 +1,13 @@
+export const PATH_LOGIN = "/login";
+export const PATH_LOGOUT = "/logout";
+export const PATH_MENU_PRINCIPAL = "/menuPrincipal";
+export const PATH_MODULO_REPORTES = "/reportes";
+export const PATH_MODULO_SUST_SE_CAE = "/sustitucionSEyCAE";
+export const PATH_MODULO_INCAPACIDAD = "/sustitucionIncapacidad";
+export const PATH_MODULO_RESCISION = "/sustitucionRescision";
+export const PATH_MODULO_TERMINO_CONTRATO = "/sustitucionTermino";
+export const PATH_MODULO_DES_SUST = "/deshacerSustitucion";
+export const PATH_LISTA_RESERVASE = "/listaReservaSE";
+export const PATH_LISTA_RESERVACAE = "/listaReservaCAE";
+export const PATH_MODULO_BITACORA = "/bitacoraDesempenio";
+export const PATH_MODULO_CERRADO = "/moduloCerrado";

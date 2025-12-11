@@ -1,0 +1,16 @@
+export const ETQ_MIGA_RUTA = "Inicio / Lista de reserva para CAE";
+export const ETQ_TITULO = "Actualización de lista de reserva para CAE";
+export const ETQ_BAR_INFO = "Selecciona el tipo de actualización para la lista de reserva.";
+export const ETQ_RADIO_TODOS = "Todos";
+export const ETQ_RADIO_MUNICIPIO = "Municipio";
+export const ETQ_RADIO_SEDE = "Sede de reclutamiento";
+export const ETQ_RADIO_SECCION = "Sección";
+export const ETQ_RADIO_ESTATUS = "Estatus";
+export const ETQ_LABEL_MUNICIPIO = "Municipio";
+export const ETQ_LABEL_LOCALIDAD = "Localidad";
+export const ETQ_LABEL_SEDE = "Sede de reclutamiento";
+export const ETQ_LABEL_SECCION = "Sección";
+export const ETQ_LABEL_A_LA_SECCION = "A la sección";
+export const ETQ_LABEL_ESTATUS = "Estatus";
+export const ETQ_SELECT_PLACEHOLDER = "Selecciona una opción";
+export const ETQ_BOTON_ACEPTAR = "Aceptar";
